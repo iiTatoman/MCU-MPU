@@ -1,9 +1,0 @@
-Exercise 7.h:12:6:clearAllClock	8	static
-Exercise 6.h:28:6:analog_clock	8	static
-Exercise 8.h:13:6:setNumberOnClock	16	static
-Exercise 9.h:13:6:clearNumberOnClock	16	static
-Exercise 10.h:15:6:completeAnalog_clock	24	static
-main.c:70:5:main	8	static
-main.c:111:6:SystemClock_Config	72	static
-main.c:147:13:MX_GPIO_Init	32	static
-main.c:180:6:Error_Handler	4	static,ignoring_inline_asm
