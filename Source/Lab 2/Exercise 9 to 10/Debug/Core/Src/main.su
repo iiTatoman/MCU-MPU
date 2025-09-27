@@ -1,0 +1,7 @@
+Exercise 9.h:15:6:updateLEDMatrix	24	static
+Exercise 10.h:12:6:shiftLeftMatrix	16	static
+main.c:69:5:main	16	static
+main.c:122:6:SystemClock_Config	72	static
+main.c:158:13:MX_TIM2_Init	32	static
+main.c:203:13:MX_GPIO_Init	32	static
+main.c:259:6:Error_Handler	4	static,ignoring_inline_asm
