@@ -1,0 +1,2 @@
+traffic.c:18:6:resetLEDsAndDisplay	8	static
+traffic.c:27:6:completeTraffic_light	16	static
