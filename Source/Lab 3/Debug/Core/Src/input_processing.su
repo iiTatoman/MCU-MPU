@@ -1,3 +1,0 @@
-input_processing.c:17:9:getSystemMode	4	static
-input_processing.c:21:5:is_button_just_pressed	24	static
-input_processing.c:38:6:fsm_for_input_processing	8	static
