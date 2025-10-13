@@ -1,0 +1,5 @@
+led_display.c:27:6:setHorizontal	24	static
+led_display.c:40:6:setVertical	24	static
+led_display.c:52:6:scanSegment	16	static
+led_display.c:79:6:updateSegment	24	static
+led_display.c:86:6:updateSegment2Digits	16	static
